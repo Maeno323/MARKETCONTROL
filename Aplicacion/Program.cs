@@ -12,12 +12,8 @@ namespace Aplicacion
             //AddEmpleado();
             //upDateEmpleado();
             //getEmpleado(2);
-            deleteEmpleado(5);
+            //deleteEmpleado(6);
             Console.WriteLine("REVISE SU BASE DE DATOS");
-            
-            
-           
-            
             
         }
         
@@ -43,7 +39,7 @@ namespace Aplicacion
 
                 Console.WriteLine("NO SE ENCONTRÓ EL EMPLEADO CON ID "+idEmpleado);
             }
-            Console.WriteLine("EL EMPLEADO CON ID "+idEmpleado+" CONSULTADO: "+ "Nombre: "+ empleado.Nombre +", "+"Correo: "+ empleado.Correo +", "+ "DocumentoID: "+empleado.DocumentoId +", "+ "Salaraio Bruto: "+empleado.SalarioBruto+", "+"Fecha de nacimiento: "+empleado.FechaDeNacimiento);
+            Console.WriteLine("EL EMPLEADO CON ID "+idEmpleado+" CONSULTADO ES: "+ "Nombre: "+ empleado.Nombre +", "+"Correo: "+ empleado.Correo +", "+ "DocumentoID: "+empleado.DocumentoId +", "+ "Salaraio Bruto: "+empleado.SalarioBruto+", "+"Fecha de nacimiento: "+empleado.FechaDeNacimiento);
 
         }
         public static void deleteEmpleado(int idEmpleado){
