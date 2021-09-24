@@ -6,9 +6,7 @@ namespace Persistencia
     {
         Empleado addEmpleado(Empleado empleado);
         Empleado updateEmpleado(Empleado empleado);
-       
         Empleado getEmpleado(int idEmpleado);
-
         void deleteEmpleado(int idEmpleado);
         
     }

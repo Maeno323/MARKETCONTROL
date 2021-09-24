@@ -53,7 +53,6 @@ namespace Persistencia
             _appContext.Remove(empleadoEncontrado);
             _appContext.SaveChanges();
 
-
            
         }
         

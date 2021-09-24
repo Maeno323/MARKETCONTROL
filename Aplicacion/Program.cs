@@ -7,16 +7,25 @@ namespace Aplicacion
     class Program
     {   
         private static IRepositorioEmpleado _repoEmpleado = new RepositorioEmpleado(new Persistencia.ApplicationDbContext());
+        private static IRepositorioInventario _repoInventario = new RepositorioInventario(new Persistencia.ApplicationDbContext());
+        
         static void Main(string[] args)
         {
+            //EJECUTAR CONSULTA DEL CRUD EMPELADO
             //AddEmpleado();
             //upDateEmpleado();
             //getEmpleado(2);
             //deleteEmpleado(6);
+
+            //EJECUTAR CONSULTA DEL CRUD INVENTARIO
+            //AddInventario();
+            //updateInventario();
+            //getInventario(4);
+            deleteInventario(2);
             Console.WriteLine("REVISE SU BASE DE DATOS");
             
         }
-        
+        //CRUD DE EMPLEADO
         public static void AddEmpleado(){
         
             Console.WriteLine("REGISTRO DE EMPLEADO EXITOSO");
@@ -47,6 +56,39 @@ namespace Aplicacion
             _repoEmpleado.deleteEmpleado(idEmpleado);
 
             Console.WriteLine("EL USUARIO CON ID "+idEmpleado+" HA SIDO REMOVIDO");
+            
+        }
+        //CRUD INVENTARIO
+        public static void AddInventario(){
+        
+            Console.WriteLine("REGISTRO DE PRODUCTO EXITOSO");
+            
+            var producto = new Inventario{nombreProducto = "Tomate", disponibilidadProducto = "si", stock = 25, precio=600};
+            
+            _repoInventario.addInventario(producto);
+        }
+        public static void updateInventario(){
+
+            
+            var inventario = new Inventario{Id = 4, nombreProducto = "Papa", disponibilidadProducto = "si", stock = 60, precio=500};
+            _repoInventario.updateInventario(inventario);
+            Console.WriteLine("SE ACTUALIZÓ EL PRODUCTO CON ID " + inventario.Id); 
+        }
+        public static void getInventario(int idInventario){
+           
+            var inventario = _repoInventario.getInventario(idInventario);
+            if(inventario==null){
+
+                Console.WriteLine("NO SE ENCONTRÓ EL PRODUCTO CON ID "+idInventario);
+            }
+            Console.WriteLine("EL PRODUCTO CON ID "+idInventario+" CONSULTADO ES: "+ "Nombre: "+ inventario.nombreProducto +", "+"Disponibilidad: "+ inventario.disponibilidadProducto +", "+ "Precio: "+inventario.precio +", "+ "stock: "+inventario.stock);
+
+        }
+        public static void deleteInventario(int idInventario){
+
+            _repoInventario.deleteInventario(idInventario);
+
+            Console.WriteLine("EL PRODUCTO CON ID "+idInventario+" HA SIDO REMOVIDO");
             
         }
 
