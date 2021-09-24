@@ -1,0 +1,11 @@
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Dominio\obj\Debug\net5.0\Dominio.pdb
