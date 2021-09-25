@@ -1,8 +1,3 @@
-D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
-D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
-D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
-D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
@@ -11,6 +6,11 @@ D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Persistencia.pdb
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Dominio.dll
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\Persistencia.dll
 D:\Downloads\CURSO DE PROGRAMDORES\Curso de programación C #\PROYECTO DE CICLO 3\Team9\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll

@@ -14,6 +14,9 @@ namespace Persistencia
 
         }
 
+        IEnumerable<Empleado> IRepositorioEmpleado.getAllEmpleado(){
+            return _appContext.empleados;
+        }
         Empleado IRepositorioEmpleado.addEmpleado(Empleado empleado)
         {
             var new_empleado = _appContext.empleados.Add(empleado);

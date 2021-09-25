@@ -20,6 +20,11 @@ namespace Persistencia
             _appContext.SaveChanges();
             return new_inventario.Entity;
         }
+
+        IEnumerable<Inventario> IRepositorioInventario.getAllInventario(){
+
+           return _appContext.inventarios;
+        }
         
         Inventario IRepositorioInventario.updateInventario(Inventario inventario){
 

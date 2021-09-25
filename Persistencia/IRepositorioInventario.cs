@@ -4,6 +4,7 @@ namespace Persistencia
 {
     public interface IRepositorioInventario
     {
+        IEnumerable<Inventario> getAllInventario();
         Inventario addInventario(Inventario inventario);
         
         Inventario updateInventario(Inventario inventario);
